@@ -1,16 +1,26 @@
 ## Hi there 👋
+I’m Sanjay, a Computer Science engineering student from India, focused on building a strong career in Data Science and Machine Learning.
 
-<!--
-**sanju-bot/sanju-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working as a Data Science Intern, where I actively work with real-world data, apply machine learning concepts, and strengthen my foundation in statistics and probability. I believe in learning by building and improving through practice.
 
-Here are some ideas to get you started:
+My core focus is turning data into insights and solutions using Python and ML tools. I’m continuously building projects that reflect practical problem-solving and industry-relevant skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m preparing for internships and full-time roles where I can contribute, learn fast, and grow as a data professional.
+
+Tools & Technologies
+
+Python, SQL
+
+Pandas, NumPy, Matplotlib
+
+Scikit-learn
+
+Git, GitHub, VS Code
+
+Fun Facts
+
+I enjoy breaking down complex problems
+
+Curious about AI and future technologies
+
+Consistent learner, always improving
