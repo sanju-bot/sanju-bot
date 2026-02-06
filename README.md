@@ -9,18 +9,13 @@ I’m preparing for internships and full-time roles where I can contribute, lear
 
 Tools & Technologies
 
-Python, SQL
-
-Pandas, NumPy, Matplotlib
-
+Python,SQL,Java,C++
+Pandas,NumPy,Matplotlib
 Scikit-learn
-
-Git, GitHub, VS Code
+Git,GitHub,VS Code
 
 Fun Facts
 
 I enjoy breaking down complex problems
-
 Curious about AI and future technologies
-
 Consistent learner, always improving
